@@ -23,11 +23,21 @@
   // e sobre a altura não tinha nada falando dentro do objeto, nao tinha nenhuma vhave nem valor ligado a altura
 
 
-  const pessoa = {
-  } nome: "Joana",
-     ["Jana", "Janinha", "Joaninha"]
+//   const pessoa = {
+//   } nome: "Joana",
+//      ["Jana", "Janinha", "Joaninha"]
   
+function irParaPraia(num){
+let sol = false
 
+if(num > 10){
+sol = true 
+console.log("vamos para a praia")
+} else{
+console.log("Fudeo! Vamo ver netflix")
+}
+return sol
 
+}
 
-  
+ irParaPraia(6) 
