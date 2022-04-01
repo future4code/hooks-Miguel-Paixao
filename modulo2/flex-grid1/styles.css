@@ -1,0 +1,64 @@
+
+header {
+margin: 0;
+
+}
+
+header {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-grow: 0%;
+    width:  100%;
+    background-color: mediumvioletred;
+}
+
+.logo {
+
+    width: 20px;
+
+}
+
+    main {
+
+        display: grid;
+        grid-template-columns: 1px;
+    }
+
+    
+
+
+nav  {
+
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: white;
+}
+
+.casa, home {
+    width: 20px;
+    
+}
+
+
+.bolos {
+
+    display: grid;
+  padding: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-arows: repeat(2, 1fr);
+  border: solid 1px;
+  margin: 10px;
+}
+
+
+footer {
+
+    display: flex;
+    align-content: flex-end;
+    background-color: mediumvioletred;
+
+}
