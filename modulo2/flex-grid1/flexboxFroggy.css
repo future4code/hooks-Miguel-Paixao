@@ -1,0 +1,78 @@
+1. justify-content: flex-end;
+pra colocar o sapo no final da tela
+
+2. justify-content: center; 
+pra alinhar os sapos no centro
+
+3. justify-content: space-around;
+pra alinhar os espaços em volta do sapo
+
+4. justify-content: space-between;
+Semelhante ao around, mas deixa espaço entre os sapos
+
+5.align-items: flex-end;
+para fixar os sapos lá no final, de cima pra baixo
+
+6.justify-content: center; align-items: center;
+para alinhar o sapo no centro de cima pra baixo
+e justificar o item no centro. Alinha vertical e horizontal no centro
+
+7. align-items: flex-end; justify-content: space-around;
+Para colcoar os sapos no fim da tela de cima pra baixo 
+e usar os espaçoes ao redor deles
+
+8.flex-direction: row-reverse;
+para mudar a ordem dos sapos da direita pra esquerda 
+
+9. flex-direction: column;
+coloquei os sapos em uma coluna
+
+10. justify-content: flex-end; flex-direction: row-reverse;
+Joguei os sapo pro fim da da tela e fiz o reverse
+
+11. flex-direction: column; justify-content: flex-end;
+colocou os sapos em coluna e depois os sapos no fim da coluna
+
+12.flex-direction: column-reverse; justify-content: space-between;
+Reverti os sapos em Colunas e fiz os Espaços entre ellipse
+
+13. justify-content: center;  align-items: flex-end; flex-direction: row-reverse;
+coloquei no centro, fiz o reverse e jogou no fim da tela
+
+14. order: 1;
+não entendi direito esse. Mudou a ordem dos sapos e foi
+
+15. order: -1;
+ainda não entendi direito...
+
+16. align-self: flex-end ; 
+Alinhou no centro o item amarelo e fixou no fim
+
+17. align-self: flex-end; order: 1;
+fixou só os amarelos no fim e mudou a ordem deles
+
+18. flex-wrap: wrap; 
+não entendi direito 
+
+19. flex-direction: column-reverse; flex-wrap: wrap;
+usei em colunas esse flex wrap 
+
+20. flex-direction: column; flex-wrap: wrap;
+os que entendi menos foram esses
+
+21. align-content: flex-start; align-items: center;
+alinhou os sapos no inicio e no centro
+
+22.align-content: flex-end;
+alinhou os sapos no fim 
+
+23. align-content: center; flex-direction: column-reverse;
+alinhou os sapo no centro em coluna 
+
+24. flex-flow: ;
+flex-wrap: wrap-reverse;
+flex-direction: column-reverse;
+justify-content: center;
+align-content: space-between;
+
+
