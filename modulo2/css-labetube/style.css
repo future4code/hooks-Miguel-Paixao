@@ -16,14 +16,28 @@ margin-bottom: 10px;
 
 }
 
+
+
+
+
 div {
 padding-left: 10px;
 
 }
 
+
 .imput {
 
     margin-right: 40px;
+}
+
+
+@media screen and (max-width: 480px) {
+
+    input {
+
+        width: 80px;
+    }
 }
 
 
@@ -36,10 +50,24 @@ nav {
     column-gap: 5px ;
 }
 
+
+
 video {
 
     height: 300px;
     width: 300px;
+}
+
+
+@media screen and (max-width: 480px) {
+    
+nav  {
+    display: flex;
+   
+flex-direction: column;
+
+  }
+
 }
 
 footer {
@@ -62,3 +90,13 @@ margin-right: 250px;
 text-transform: uppercase;
 
 }
+
+@media screen and (max-width: 480px) {
+    footer {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+ }
+
+ 
