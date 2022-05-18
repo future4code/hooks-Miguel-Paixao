@@ -1,0 +1,30 @@
+Meu resumo
+
+
+Conseguir entender bem e extrair as principais infamações 
+
+que o texto ou contratante pede. 
+
+Sabendo qual é sua função ou responsabilidade. 
+
+E como fazer um mapa visual ajuda nisso 
+
+as vezes ja dá pra extrair dali as suas principais variáveis 
+
+Dados de entrada,  ResultadoFinal etc... 
+
+e o mais importante é fazer um código que funcione 
+
+independente se é simples ou feio 
+
+o importante é funcionar. 
+
+ 
+
+Ajuda a solucionar nossos desafios por 
+
+Seguir uma série de passos que nos condiciona a ter atenção e pensar na lógica da coisa. 
+
+Principalmente quebrando por etapas. Um pedacinho de cada vez. O cérebro agradece.  
+
+ 
